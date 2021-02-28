@@ -24,4 +24,3 @@ echo "<br>";
 var_dump($angka);
 echo "<br>";
 var_dump($buah);
-?>
